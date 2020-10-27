@@ -12,4 +12,5 @@ vk: https://vk.com/invite/ViI0mDT
 LOG:
 
 27/10/20 - first release
+
 26/10/20 - start development
